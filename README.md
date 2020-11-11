@@ -84,6 +84,7 @@ Credits
 ========================================
 
 
+<pre>
 Underscores:
 Author: 2012-2015 Automattic
 Source: http://underscores.me
@@ -147,3 +148,5 @@ source: https://pxhere.com/en/photo/774160
 Name : screenshot.png logo, 404.png and ads
 License:  Self created by athemeart.com 
 
+
+</pre>
