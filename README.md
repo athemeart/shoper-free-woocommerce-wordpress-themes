@@ -75,8 +75,10 @@ Changelog
 
 Copyright
 ========================================
+<pre>
 Shoper WordPress Theme, Copyright (C) 2020 aThemeArt.com
 Grocery Store is distributed under the terms of the MIT License 
+</pre>
 
 
 
