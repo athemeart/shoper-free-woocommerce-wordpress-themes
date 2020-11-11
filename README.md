@@ -6,8 +6,8 @@ Shoper WooCommerce WordPress theme
 <a href="https://athemeart.com/docs/shoper/theme-installation/" target="_blank">Documentation</a> </h4>
 <br/>
 
-<a href="https://athemeart.com/downloads/shopper-best-woocommerce-theme/" target="_blank"><img src="https://athemeart.com/wp-content/uploads/edd/2020/11/screenshot-2.png" alt="Best WooCommerce Theme"></a>
-
+<img src="https://athemeart.com/wp-content/uploads/edd/2020/11/screenshot-2.png" alt="Best WooCommerce Theme">
+<br/>
 <p>The Shoper theme is classy, trendy, eye-catching, and modern  multipurpose <a href="https://athemeart.com/downloads/shoper-wordpress-shop-theme-free/" target="_blank">WordPress shop theme free</a>. To clarify, the WordPress shop builts with the topmost latest  technology and wraps with the WordPress hook.</p>
 <p>In a word, it's a <strong>free  WooCommerce theme</strong>, where you can easily switch the default functionality  through improving the theme Actions/Filters. And also, it's a complete ready to  use the theme.</p>
 <p>However, it comes to create your online desire shop like a fashion  shop, beauty, health, jewelry, or any relevant shops, or as a multipurpose  shop. Similarly, you can use this shopper WooCommerce theme for a grocery store, supermarket, organic shop, or any  online selling products shop.</p>
